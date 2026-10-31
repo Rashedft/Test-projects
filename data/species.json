@@ -1,0 +1,405 @@
+{
+  "25": {
+    "name": "Pikachu",
+    "types": [
+      "electric"
+    ],
+    "base": [
+      35,
+      55,
+      40,
+      50,
+      50,
+      90
+    ],
+    "catch": 190,
+    "growth": "medium",
+    "ability": "Static",
+    "color": "#efca38",
+    "learn": [
+      [
+        1,
+        "tail_whip"
+      ],
+      [
+        1,
+        "thunder_shock"
+      ],
+      [
+        5,
+        "growl"
+      ],
+      [
+        7,
+        "play_nice"
+      ],
+      [
+        10,
+        "quick_attack"
+      ]
+    ],
+    "evolution": {
+      "item": "thunder_stone",
+      "to": 26
+    }
+  },
+  "26": {
+    "name": "Raichu",
+    "types": [
+      "electric"
+    ],
+    "base": [
+      60,
+      90,
+      55,
+      90,
+      80,
+      110
+    ],
+    "catch": 75,
+    "growth": "medium",
+    "ability": "Static",
+    "color": "#df943b",
+    "learn": [
+      [
+        1,
+        "tail_whip"
+      ],
+      [
+        1,
+        "thunder_shock"
+      ],
+      [
+        1,
+        "thunderbolt"
+      ],
+      [
+        1,
+        "quick_attack"
+      ]
+    ]
+  },
+  "1": {
+    "name": "Bulbasaur",
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "base": [
+      45,
+      49,
+      49,
+      65,
+      65,
+      45
+    ],
+    "catch": 45,
+    "growth": "medium_slow",
+    "ability": "Overgrow",
+    "color": "#54b69a",
+    "learn": [
+      [
+        1,
+        "tackle"
+      ],
+      [
+        3,
+        "growl"
+      ],
+      [
+        7,
+        "leech_seed"
+      ],
+      [
+        9,
+        "vine_whip"
+      ]
+    ],
+    "evolution": {
+      "level": 16,
+      "to": 2
+    }
+  },
+  "2": {
+    "name": "Ivysaur",
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "base": [
+      60,
+      62,
+      63,
+      80,
+      80,
+      60
+    ],
+    "catch": 45,
+    "growth": "medium_slow",
+    "ability": "Overgrow",
+    "color": "#398b86",
+    "learn": [
+      [
+        1,
+        "tackle"
+      ],
+      [
+        1,
+        "growl"
+      ],
+      [
+        1,
+        "leech_seed"
+      ],
+      [
+        3,
+        "growl"
+      ],
+      [
+        7,
+        "leech_seed"
+      ],
+      [
+        9,
+        "vine_whip"
+      ]
+    ]
+  },
+  "4": {
+    "name": "Charmander",
+    "types": [
+      "fire"
+    ],
+    "base": [
+      39,
+      52,
+      43,
+      60,
+      50,
+      65
+    ],
+    "catch": 45,
+    "growth": "medium_slow",
+    "ability": "Blaze",
+    "color": "#ef974c",
+    "learn": [
+      [
+        1,
+        "scratch"
+      ],
+      [
+        1,
+        "growl"
+      ],
+      [
+        7,
+        "ember"
+      ],
+      [
+        10,
+        "smokescreen"
+      ]
+    ],
+    "evolution": {
+      "level": 16,
+      "to": 5
+    }
+  },
+  "5": {
+    "name": "Charmeleon",
+    "types": [
+      "fire"
+    ],
+    "base": [
+      58,
+      64,
+      58,
+      80,
+      65,
+      80
+    ],
+    "catch": 45,
+    "growth": "medium_slow",
+    "ability": "Blaze",
+    "color": "#db6644",
+    "learn": [
+      [
+        1,
+        "scratch"
+      ],
+      [
+        1,
+        "growl"
+      ],
+      [
+        1,
+        "ember"
+      ],
+      [
+        7,
+        "ember"
+      ],
+      [
+        10,
+        "smokescreen"
+      ]
+    ]
+  },
+  "7": {
+    "name": "Squirtle",
+    "types": [
+      "water"
+    ],
+    "base": [
+      44,
+      48,
+      65,
+      50,
+      64,
+      43
+    ],
+    "catch": 45,
+    "growth": "medium_slow",
+    "ability": "Torrent",
+    "color": "#73bbd7",
+    "learn": [
+      [
+        1,
+        "tackle"
+      ],
+      [
+        4,
+        "tail_whip"
+      ],
+      [
+        7,
+        "water_gun"
+      ],
+      [
+        10,
+        "withdraw"
+      ]
+    ],
+    "evolution": {
+      "level": 16,
+      "to": 8
+    }
+  },
+  "8": {
+    "name": "Wartortle",
+    "types": [
+      "water"
+    ],
+    "base": [
+      59,
+      63,
+      80,
+      65,
+      80,
+      58
+    ],
+    "catch": 45,
+    "growth": "medium_slow",
+    "ability": "Torrent",
+    "color": "#759ed4",
+    "learn": [
+      [
+        1,
+        "tackle"
+      ],
+      [
+        1,
+        "tail_whip"
+      ],
+      [
+        1,
+        "water_gun"
+      ],
+      [
+        4,
+        "tail_whip"
+      ],
+      [
+        7,
+        "water_gun"
+      ],
+      [
+        10,
+        "withdraw"
+      ]
+    ]
+  },
+  "19": {
+    "name": "Rattata",
+    "types": [
+      "normal"
+    ],
+    "base": [
+      30,
+      56,
+      35,
+      25,
+      35,
+      72
+    ],
+    "catch": 255,
+    "growth": "medium",
+    "ability": "Run Away",
+    "color": "#af87c5",
+    "learn": [
+      [
+        1,
+        "tackle"
+      ],
+      [
+        1,
+        "tail_whip"
+      ],
+      [
+        4,
+        "quick_attack"
+      ],
+      [
+        7,
+        "focus_energy"
+      ],
+      [
+        10,
+        "bite"
+      ]
+    ]
+  },
+  "16": {
+    "name": "Pidgey",
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "base": [
+      40,
+      45,
+      40,
+      35,
+      35,
+      56
+    ],
+    "catch": 255,
+    "growth": "medium_slow",
+    "ability": "Keen Eye",
+    "color": "#bd9e6c",
+    "learn": [
+      [
+        1,
+        "tackle"
+      ],
+      [
+        5,
+        "sand_attack"
+      ],
+      [
+        9,
+        "gust"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,146 @@
+[
+  {
+    "pokemon_id": "35",
+    "generation_id": "5",
+    "type_id": "1",
+    "slot": "1"
+  },
+  {
+    "pokemon_id": "36",
+    "generation_id": "5",
+    "type_id": "1",
+    "slot": "1"
+  },
+  {
+    "pokemon_id": "39",
+    "generation_id": "5",
+    "type_id": "1",
+    "slot": "1"
+  },
+  {
+    "pokemon_id": "40",
+    "generation_id": "5",
+    "type_id": "1",
+    "slot": "1"
+  },
+  {
+    "pokemon_id": "81",
+    "generation_id": "1",
+    "type_id": "13",
+    "slot": "1"
+  },
+  {
+    "pokemon_id": "82",
+    "generation_id": "1",
+    "type_id": "13",
+    "slot": "1"
+  },
+  {
+    "pokemon_id": "122",
+    "generation_id": "5",
+    "type_id": "14",
+    "slot": "1"
+  },
+  {
+    "pokemon_id": "173",
+    "generation_id": "5",
+    "type_id": "1",
+    "slot": "1"
+  },
+  {
+    "pokemon_id": "174",
+    "generation_id": "5",
+    "type_id": "1",
+    "slot": "1"
+  },
+  {
+    "pokemon_id": "175",
+    "generation_id": "5",
+    "type_id": "1",
+    "slot": "1"
+  },
+  {
+    "pokemon_id": "176",
+    "generation_id": "5",
+    "type_id": "1",
+    "slot": "1"
+  },
+  {
+    "pokemon_id": "176",
+    "generation_id": "5",
+    "type_id": "3",
+    "slot": "2"
+  },
+  {
+    "pokemon_id": "183",
+    "generation_id": "5",
+    "type_id": "11",
+    "slot": "1"
+  },
+  {
+    "pokemon_id": "184",
+    "generation_id": "5",
+    "type_id": "11",
+    "slot": "1"
+  },
+  {
+    "pokemon_id": "209",
+    "generation_id": "5",
+    "type_id": "1",
+    "slot": "1"
+  },
+  {
+    "pokemon_id": "210",
+    "generation_id": "5",
+    "type_id": "1",
+    "slot": "1"
+  },
+  {
+    "pokemon_id": "280",
+    "generation_id": "5",
+    "type_id": "14",
+    "slot": "1"
+  },
+  {
+    "pokemon_id": "281",
+    "generation_id": "5",
+    "type_id": "14",
+    "slot": "1"
+  },
+  {
+    "pokemon_id": "282",
+    "generation_id": "5",
+    "type_id": "14",
+    "slot": "1"
+  },
+  {
+    "pokemon_id": "298",
+    "generation_id": "5",
+    "type_id": "1",
+    "slot": "1"
+  },
+  {
+    "pokemon_id": "303",
+    "generation_id": "5",
+    "type_id": "9",
+    "slot": "1"
+  },
+  {
+    "pokemon_id": "439",
+    "generation_id": "5",
+    "type_id": "14",
+    "slot": "1"
+  },
+  {
+    "pokemon_id": "468",
+    "generation_id": "5",
+    "type_id": "1",
+    "slot": "1"
+  },
+  {
+    "pokemon_id": "468",
+    "generation_id": "5",
+    "type_id": "3",
+    "slot": "2"
+  }
+]

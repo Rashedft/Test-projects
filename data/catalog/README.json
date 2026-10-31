@@ -1,0 +1,17 @@
+{
+  "status": "Reference catalog; not a complete game implementation.",
+  "species": 493,
+  "moves": 617,
+  "forms": "National Dex base/default forms only. No Mega forms or stones.",
+  "historical_fields": "Gen VI stats/types/abilities and X/Y learnsets; move field changes rolled back to version group 15.",
+  "pending_audit": [
+    "Capture and friendship historical overrides",
+    "Gen VI evolution condition extraction",
+    "Move effect/target semantics",
+    "Ability effect implementation",
+    "XP yield history",
+    "Alternate non-Mega forms",
+    "TM/HM item-number mappings"
+  ],
+  "source_commit": "2bf639e5572812a67d2b94903fdcb9d095f5aeb2"
+}

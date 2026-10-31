@@ -1,0 +1,211 @@
+{
+  "tackle": {
+    "name": "Tackle",
+    "type": "normal",
+    "power": 50,
+    "accuracy": 100,
+    "pp": 35,
+    "category": "physical",
+    "priority": 0,
+    "effect": "",
+    "chance": 0
+  },
+  "scratch": {
+    "name": "Scratch",
+    "type": "normal",
+    "power": 40,
+    "accuracy": 100,
+    "pp": 35,
+    "category": "physical",
+    "priority": 0,
+    "effect": "",
+    "chance": 0
+  },
+  "quick_attack": {
+    "name": "Quick Attack",
+    "type": "normal",
+    "power": 40,
+    "accuracy": 100,
+    "pp": 30,
+    "category": "physical",
+    "priority": 1,
+    "effect": "",
+    "chance": 0
+  },
+  "thunder_shock": {
+    "name": "Thunder Shock",
+    "type": "electric",
+    "power": 40,
+    "accuracy": 100,
+    "pp": 30,
+    "category": "special",
+    "priority": 0,
+    "effect": "paralysis",
+    "chance": 10
+  },
+  "thunderbolt": {
+    "name": "Thunderbolt",
+    "type": "electric",
+    "power": 90,
+    "accuracy": 100,
+    "pp": 15,
+    "category": "special",
+    "priority": 0,
+    "effect": "paralysis",
+    "chance": 10
+  },
+  "ember": {
+    "name": "Ember",
+    "type": "fire",
+    "power": 40,
+    "accuracy": 100,
+    "pp": 25,
+    "category": "special",
+    "priority": 0,
+    "effect": "burn",
+    "chance": 10
+  },
+  "water_gun": {
+    "name": "Water Gun",
+    "type": "water",
+    "power": 40,
+    "accuracy": 100,
+    "pp": 25,
+    "category": "special",
+    "priority": 0,
+    "effect": "",
+    "chance": 0
+  },
+  "vine_whip": {
+    "name": "Vine Whip",
+    "type": "grass",
+    "power": 45,
+    "accuracy": 100,
+    "pp": 25,
+    "category": "physical",
+    "priority": 0,
+    "effect": "",
+    "chance": 0
+  },
+  "gust": {
+    "name": "Gust",
+    "type": "flying",
+    "power": 40,
+    "accuracy": 100,
+    "pp": 35,
+    "category": "special",
+    "priority": 0,
+    "effect": "",
+    "chance": 0
+  },
+  "growl": {
+    "name": "Growl",
+    "type": "normal",
+    "power": 0,
+    "accuracy": 100,
+    "pp": 40,
+    "category": "status",
+    "priority": 0,
+    "effect": "attack_down",
+    "chance": 0
+  },
+  "tail_whip": {
+    "name": "Tail Whip",
+    "type": "normal",
+    "power": 0,
+    "accuracy": 100,
+    "pp": 30,
+    "category": "status",
+    "priority": 0,
+    "effect": "defense_down",
+    "chance": 0
+  },
+  "play_nice": {
+    "name": "Play Nice",
+    "type": "normal",
+    "power": 0,
+    "accuracy": 100,
+    "pp": 20,
+    "category": "status",
+    "priority": 0,
+    "effect": "attack_down",
+    "chance": 0
+  },
+  "leech_seed": {
+    "name": "Leech Seed",
+    "type": "grass",
+    "power": 0,
+    "accuracy": 90,
+    "pp": 10,
+    "category": "status",
+    "priority": 0,
+    "effect": "seed",
+    "chance": 0
+  },
+  "smokescreen": {
+    "name": "Smokescreen",
+    "type": "normal",
+    "power": 0,
+    "accuracy": 100,
+    "pp": 20,
+    "category": "status",
+    "priority": 0,
+    "effect": "accuracy_down",
+    "chance": 0
+  },
+  "withdraw": {
+    "name": "Withdraw",
+    "type": "water",
+    "power": 0,
+    "accuracy": 100,
+    "pp": 40,
+    "category": "status",
+    "priority": 0,
+    "effect": "defense_up",
+    "chance": 0
+  },
+  "sand_attack": {
+    "name": "Sand Attack",
+    "type": "ground",
+    "power": 0,
+    "accuracy": 100,
+    "pp": 15,
+    "category": "status",
+    "priority": 0,
+    "effect": "accuracy_down",
+    "chance": 0
+  },
+  "struggle": {
+    "name": "Struggle",
+    "type": "normal",
+    "power": 50,
+    "accuracy": 100,
+    "pp": 1,
+    "category": "physical",
+    "priority": 0,
+    "effect": "recoil",
+    "chance": 0
+  },
+  "focus_energy": {
+    "name": "Focus Energy",
+    "type": "normal",
+    "power": 0,
+    "accuracy": 100,
+    "pp": 30,
+    "category": "status",
+    "priority": 0,
+    "effect": "focus",
+    "chance": 0
+  },
+  "bite": {
+    "name": "Bite",
+    "type": "dark",
+    "power": 60,
+    "accuracy": 100,
+    "pp": 25,
+    "category": "physical",
+    "priority": 0,
+    "effect": "flinch",
+    "chance": 30
+  }
+}

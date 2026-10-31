@@ -1,0 +1,87 @@
+Catalog normalized: 493 species, 617 move records; historical regression and all learnset references passed
+148 historical data checks passed
+Godot Engine v4.6.3.stable.official.7d41c59c4 - https://godotengine.org
+
+[   0% ] [90m[1mfirst_scan_filesystem[22m | Started Project initialization (5 steps)[39m[0m
+[   0% ] [90m[1mfirst_scan_filesystem[22m | Scanning file structure...[39m[0m
+[  16% ] [90m[1mfirst_scan_filesystem[22m | Loading global class names...[39m[0m
+[  33% ] [90m[1mfirst_scan_filesystem[22m | Verifying GDExtensions...[39m[0m
+[  50% ] [90m[1mfirst_scan_filesystem[22m | Creating autoload scripts...[39m[0m
+[  66% ] [90m[1mfirst_scan_filesystem[22m | Initializing plugins...[39m[0m
+[  83% ] [90m[1mfirst_scan_filesystem[22m | Starting file scan...[39m[0m
+[92m[ DONE ][39m [1mfirst_scan_filesystem[22m
+[0m
+[   0% ] [90m[1mloading_editor_layout[22m | Started Loading editor (5 steps)[39m[0m
+[   0% ] [90m[1mloading_editor_layout[22m | Loading editor layout...[39m[0m
+[  16% ] [90m[1mloading_editor_layout[22m | Loading docks...[39m[0m
+[92m[ DONE ][39m [1mloading_editor_layout[22m
+[0m
+Godot Engine v4.6.3.stable.official.7d41c59c4 - https://godotengine.org
+
+PASS: New game has no free Pokémon
+PASS: Mom requires Oak event
+PASS: Oak gift once
+PASS: Mom gives three starters once
+PASS: Starter level 5
+PASS: Starter level 5
+PASS: Starter level 5
+PASS: Starter level 5
+PASS: Gen VI Pikachu base stats with zero IVs at level 5
+PASS: XY Pikachu level-5 starter moves
+PASS: Party rearrangement
+PASS: Pikachu restored as lead
+PASS: Thunder Stone evolves and consumes item
+PASS: Stone cannot be consumed twice
+PASS: Potion cannot revive
+PASS: Center restores HP
+PASS: Potion clamps and consumes once
+PASS: Full party sends capture to PC
+PASS: PC deposit and withdraw
+PASS: Save succeeds
+PASS: Entire state round-trips through JSON
+PASS: Previous save backup retained
+PASS: Invalid save leaves live state intact
+PASS: Gift flags survive loading
+PASS: Electric Ground immunity
+PASS: Gen VI Dragon Fairy immunity
+PASS: Gen VI Steel no longer resists Ghost
+PASS: Dual type effectiveness
+PASS: Battle consumes move PP
+PASS: Trainer capture forbidden
+PASS: Trainer escape forbidden
+PASS: Zero PP Struggle recoil
+PASS: Capture integrates with persistent ownership
+PASS: Save validator rejects string HP without crashing
+PASS: Save validator rejects invalid move structures
+PASS: Save validator rejects invalid IVs
+PASS: Save validator rejects duplicate creature identities
+PASS: Save validator rejects negative inventory
+PASS: Nature modifiers round down correctly
+PASS: Known Gen VI neutral STAB damage vector
+PASS: Gen VI critical multiplier 1.5
+PASS: Level-up learns XY Ember at level 7
+PASS: Level-based evolution transforms species
+PASS: Shop purchase updates money and inventory
+PASS: Insufficient funds cannot create negative money
+PASS: Research quest reward is one-time
+PASS: Follower uses party slot one
+PASS: Follower changes immediately with party order
+PASS: Follower changes on evolution
+PASS: Main menu opens and pauses exploration
+PASS: Party row fits menu width
+PASS: Party row fits menu width
+PASS: Party row fits menu width
+PASS: Party row fits menu width
+PASS: Party row fits menu width
+PASS: Party menu fits 1080p
+PASS: Party menu remains within scaled viewport
+PASS: World transitions to trainer battle
+PASS: Battle party switch integrated
+PASS: Battle returns to exploration
+PASS: World Oak interaction awards Pikachu
+PASS: World Mom interaction integrates one-time gifts
+PASS: Keyboard input moves the physical player
+PASS: Menus pause movement
+PASS: Lab collision blocks walking through walls
+RESULT: 65 checks, 0 failures
+Godot Engine v4.6.3.stable.official.7d41c59c4 - https://godotengine.org

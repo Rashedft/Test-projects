@@ -1,0 +1,6 @@
+Poke Journey — name/package update, 2026-10-30
+Godot 4.6.3 Windows x86-64 export: PASS
+Bundled resource startup using Linux Godot: PASS
+Save directory compatibility (Linux): PASS
+Native Windows launch and save directory: UNVERIFIED
+Executable SHA256: 5711e21fb4306717e97bba6830d92634902e56027ab19006fb30e4c7d97b8a9b

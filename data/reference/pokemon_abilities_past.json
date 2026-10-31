@@ -1,0 +1,3740 @@
+[
+  {
+    "pokemon_id": "1",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "2",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "3",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "4",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "5",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "6",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "7",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "8",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "9",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "10",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "12",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "13",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "15",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "16",
+    "generation_id": "3",
+    "ability_id": "",
+    "is_hidden": "0",
+    "slot": "2"
+  },
+  {
+    "pokemon_id": "16",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "17",
+    "generation_id": "3",
+    "ability_id": "",
+    "is_hidden": "0",
+    "slot": "2"
+  },
+  {
+    "pokemon_id": "17",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "18",
+    "generation_id": "3",
+    "ability_id": "",
+    "is_hidden": "0",
+    "slot": "2"
+  },
+  {
+    "pokemon_id": "18",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "19",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "20",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "21",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "22",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "23",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "24",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "25",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "26",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "27",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "28",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "29",
+    "generation_id": "3",
+    "ability_id": "",
+    "is_hidden": "0",
+    "slot": "2"
+  },
+  {
+    "pokemon_id": "29",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "30",
+    "generation_id": "3",
+    "ability_id": "",
+    "is_hidden": "0",
+    "slot": "2"
+  },
+  {
+    "pokemon_id": "30",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "31",
+    "generation_id": "3",
+    "ability_id": "",
+    "is_hidden": "0",
+    "slot": "2"
+  },
+  {
+    "pokemon_id": "31",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "32",
+    "generation_id": "3",
+    "ability_id": "",
+    "is_hidden": "0",
+    "slot": "2"
+  },
+  {
+    "pokemon_id": "32",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "33",
+    "generation_id": "3",
+    "ability_id": "",
+    "is_hidden": "0",
+    "slot": "2"
+  },
+  {
+    "pokemon_id": "33",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "34",
+    "generation_id": "3",
+    "ability_id": "",
+    "is_hidden": "0",
+    "slot": "2"
+  },
+  {
+    "pokemon_id": "34",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "35",
+    "generation_id": "3",
+    "ability_id": "",
+    "is_hidden": "0",
+    "slot": "2"
+  },
+  {
+    "pokemon_id": "35",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "36",
+    "generation_id": "3",
+    "ability_id": "",
+    "is_hidden": "0",
+    "slot": "2"
+  },
+  {
+    "pokemon_id": "36",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "37",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "38",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "39",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "39",
+    "generation_id": "5",
+    "ability_id": "",
+    "is_hidden": "0",
+    "slot": "2"
+  },
+  {
+    "pokemon_id": "40",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "40",
+    "generation_id": "5",
+    "ability_id": "",
+    "is_hidden": "0",
+    "slot": "2"
+  },
+  {
+    "pokemon_id": "41",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "42",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "43",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "44",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "45",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "46",
+    "generation_id": "3",
+    "ability_id": "",
+    "is_hidden": "0",
+    "slot": "2"
+  },
+  {
+    "pokemon_id": "46",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "47",
+    "generation_id": "3",
+    "ability_id": "",
+    "is_hidden": "0",
+    "slot": "2"
+  },
+  {
+    "pokemon_id": "47",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "48",
+    "generation_id": "3",
+    "ability_id": "",
+    "is_hidden": "0",
+    "slot": "2"
+  },
+  {
+    "pokemon_id": "48",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "49",
+    "generation_id": "3",
+    "ability_id": "",
+    "is_hidden": "0",
+    "slot": "2"
+  },
+  {
+    "pokemon_id": "49",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "50",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "51",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "52",
+    "generation_id": "3",
+    "ability_id": "",
+    "is_hidden": "0",
+    "slot": "2"
+  },
+  {
+    "pokemon_id": "52",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "53",
+    "generation_id": "3",
+    "ability_id": "",
+    "is_hidden": "0",
+    "slot": "2"
+  },
+  {
+    "pokemon_id": "53",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "54",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "55",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "56",
+    "generation_id": "3",
+    "ability_id": "",
+    "is_hidden": "0",
+    "slot": "2"
+  },
+  {
+    "pokemon_id": "56",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "57",
+    "generation_id": "3",
+    "ability_id": "",
+    "is_hidden": "0",
+    "slot": "2"
+  },
+  {
+    "pokemon_id": "57",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "58",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "59",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "60",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "61",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "62",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "63",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "64",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "65",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "66",
+    "generation_id": "3",
+    "ability_id": "",
+    "is_hidden": "0",
+    "slot": "2"
+  },
+  {
+    "pokemon_id": "66",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "67",
+    "generation_id": "3",
+    "ability_id": "",
+    "is_hidden": "0",
+    "slot": "2"
+  },
+  {
+    "pokemon_id": "67",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "68",
+    "generation_id": "3",
+    "ability_id": "",
+    "is_hidden": "0",
+    "slot": "2"
+  },
+  {
+    "pokemon_id": "68",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "69",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "70",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "71",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "72",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "73",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "74",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "75",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "76",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "77",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "78",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "79",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "80",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "81",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "82",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "83",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "84",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "85",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "86",
+    "generation_id": "3",
+    "ability_id": "",
+    "is_hidden": "0",
+    "slot": "2"
+  },
+  {
+    "pokemon_id": "86",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "87",
+    "generation_id": "3",
+    "ability_id": "",
+    "is_hidden": "0",
+    "slot": "2"
+  },
+  {
+    "pokemon_id": "87",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "88",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "89",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "90",
+    "generation_id": "3",
+    "ability_id": "",
+    "is_hidden": "0",
+    "slot": "2"
+  },
+  {
+    "pokemon_id": "90",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "91",
+    "generation_id": "3",
+    "ability_id": "",
+    "is_hidden": "0",
+    "slot": "2"
+  },
+  {
+    "pokemon_id": "91",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "94",
+    "generation_id": "6",
+    "ability_id": "26",
+    "is_hidden": "0",
+    "slot": "1"
+  },
+  {
+    "pokemon_id": "95",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "96",
+    "generation_id": "3",
+    "ability_id": "",
+    "is_hidden": "0",
+    "slot": "2"
+  },
+  {
+    "pokemon_id": "96",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "97",
+    "generation_id": "3",
+    "ability_id": "",
+    "is_hidden": "0",
+    "slot": "2"
+  },
+  {
+    "pokemon_id": "97",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "98",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "99",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "100",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "101",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "102",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "103",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "104",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "105",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "106",
+    "generation_id": "3",
+    "ability_id": "",
+    "is_hidden": "0",
+    "slot": "2"
+  },
+  {
+    "pokemon_id": "106",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "107",
+    "generation_id": "3",
+    "ability_id": "",
+    "is_hidden": "0",
+    "slot": "2"
+  },
+  {
+    "pokemon_id": "107",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "108",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "109",
+    "generation_id": "7",
+    "ability_id": "",
+    "is_hidden": "0",
+    "slot": "2"
+  },
+  {
+    "pokemon_id": "110",
+    "generation_id": "7",
+    "ability_id": "",
+    "is_hidden": "0",
+    "slot": "2"
+  },
+  {
+    "pokemon_id": "111",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "112",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "113",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "114",
+    "generation_id": "3",
+    "ability_id": "",
+    "is_hidden": "0",
+    "slot": "2"
+  },
+  {
+    "pokemon_id": "114",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "115",
+    "generation_id": "3",
+    "ability_id": "",
+    "is_hidden": "0",
+    "slot": "2"
+  },
+  {
+    "pokemon_id": "115",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "116",
+    "generation_id": "3",
+    "ability_id": "",
+    "is_hidden": "0",
+    "slot": "2"
+  },
+  {
+    "pokemon_id": "116",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "117",
+    "generation_id": "3",
+    "ability_id": "",
+    "is_hidden": "0",
+    "slot": "2"
+  },
+  {
+    "pokemon_id": "117",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "118",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "119",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "120",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "121",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "122",
+    "generation_id": "3",
+    "ability_id": "",
+    "is_hidden": "0",
+    "slot": "2"
+  },
+  {
+    "pokemon_id": "122",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "123",
+    "generation_id": "3",
+    "ability_id": "",
+    "is_hidden": "0",
+    "slot": "2"
+  },
+  {
+    "pokemon_id": "123",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "124",
+    "generation_id": "3",
+    "ability_id": "",
+    "is_hidden": "0",
+    "slot": "2"
+  },
+  {
+    "pokemon_id": "124",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "125",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "126",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "127",
+    "generation_id": "3",
+    "ability_id": "",
+    "is_hidden": "0",
+    "slot": "2"
+  },
+  {
+    "pokemon_id": "127",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "128",
+    "generation_id": "3",
+    "ability_id": "",
+    "is_hidden": "0",
+    "slot": "2"
+  },
+  {
+    "pokemon_id": "128",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "129",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "130",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "131",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "132",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "133",
+    "generation_id": "3",
+    "ability_id": "",
+    "is_hidden": "0",
+    "slot": "2"
+  },
+  {
+    "pokemon_id": "133",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "134",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "135",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "136",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "137",
+    "generation_id": "3",
+    "ability_id": "",
+    "is_hidden": "0",
+    "slot": "2"
+  },
+  {
+    "pokemon_id": "137",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "138",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "139",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "140",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "141",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "142",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "143",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "145",
+    "generation_id": "5",
+    "ability_id": "31",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "147",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "148",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "149",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "150",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "161",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "162",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "163",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "164",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "165",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "166",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "167",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "168",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "169",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "170",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "171",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "172",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "173",
+    "generation_id": "3",
+    "ability_id": "",
+    "is_hidden": "0",
+    "slot": "2"
+  },
+  {
+    "pokemon_id": "173",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "174",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "174",
+    "generation_id": "5",
+    "ability_id": "",
+    "is_hidden": "0",
+    "slot": "2"
+  },
+  {
+    "pokemon_id": "175",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "176",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "177",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "178",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "179",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "180",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "181",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "182",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "183",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "184",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "185",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "186",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "187",
+    "generation_id": "3",
+    "ability_id": "",
+    "is_hidden": "0",
+    "slot": "2"
+  },
+  {
+    "pokemon_id": "187",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "188",
+    "generation_id": "3",
+    "ability_id": "",
+    "is_hidden": "0",
+    "slot": "2"
+  },
+  {
+    "pokemon_id": "188",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "189",
+    "generation_id": "3",
+    "ability_id": "",
+    "is_hidden": "0",
+    "slot": "2"
+  },
+  {
+    "pokemon_id": "189",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "190",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "191",
+    "generation_id": "3",
+    "ability_id": "",
+    "is_hidden": "0",
+    "slot": "2"
+  },
+  {
+    "pokemon_id": "191",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "192",
+    "generation_id": "3",
+    "ability_id": "",
+    "is_hidden": "0",
+    "slot": "2"
+  },
+  {
+    "pokemon_id": "192",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "193",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "194",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "195",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "196",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "197",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "198",
+    "generation_id": "3",
+    "ability_id": "",
+    "is_hidden": "0",
+    "slot": "2"
+  },
+  {
+    "pokemon_id": "198",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "199",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "202",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "203",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "204",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "205",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "206",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "207",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "208",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "209",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "210",
+    "generation_id": "3",
+    "ability_id": "",
+    "is_hidden": "0",
+    "slot": "2"
+  },
+  {
+    "pokemon_id": "210",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "211",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "212",
+    "generation_id": "3",
+    "ability_id": "",
+    "is_hidden": "0",
+    "slot": "2"
+  },
+  {
+    "pokemon_id": "212",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "213",
+    "generation_id": "3",
+    "ability_id": "",
+    "is_hidden": "0",
+    "slot": "2"
+  },
+  {
+    "pokemon_id": "213",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "214",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "215",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "216",
+    "generation_id": "3",
+    "ability_id": "",
+    "is_hidden": "0",
+    "slot": "2"
+  },
+  {
+    "pokemon_id": "216",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "217",
+    "generation_id": "3",
+    "ability_id": "",
+    "is_hidden": "0",
+    "slot": "2"
+  },
+  {
+    "pokemon_id": "217",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "218",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "219",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "220",
+    "generation_id": "3",
+    "ability_id": "",
+    "is_hidden": "0",
+    "slot": "2"
+  },
+  {
+    "pokemon_id": "220",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "221",
+    "generation_id": "3",
+    "ability_id": "",
+    "is_hidden": "0",
+    "slot": "2"
+  },
+  {
+    "pokemon_id": "221",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "222",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "223",
+    "generation_id": "3",
+    "ability_id": "",
+    "is_hidden": "0",
+    "slot": "2"
+  },
+  {
+    "pokemon_id": "223",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "224",
+    "generation_id": "3",
+    "ability_id": "",
+    "is_hidden": "0",
+    "slot": "2"
+  },
+  {
+    "pokemon_id": "224",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "225",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "226",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "227",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "228",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "229",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "230",
+    "generation_id": "3",
+    "ability_id": "",
+    "is_hidden": "0",
+    "slot": "2"
+  },
+  {
+    "pokemon_id": "230",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "231",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "232",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "233",
+    "generation_id": "3",
+    "ability_id": "",
+    "is_hidden": "0",
+    "slot": "2"
+  },
+  {
+    "pokemon_id": "233",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "234",
+    "generation_id": "3",
+    "ability_id": "",
+    "is_hidden": "0",
+    "slot": "2"
+  },
+  {
+    "pokemon_id": "234",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "235",
+    "generation_id": "3",
+    "ability_id": "",
+    "is_hidden": "0",
+    "slot": "2"
+  },
+  {
+    "pokemon_id": "235",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "236",
+    "generation_id": "3",
+    "ability_id": "",
+    "is_hidden": "0",
+    "slot": "2"
+  },
+  {
+    "pokemon_id": "236",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "237",
+    "generation_id": "3",
+    "ability_id": "",
+    "is_hidden": "0",
+    "slot": "2"
+  },
+  {
+    "pokemon_id": "237",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "238",
+    "generation_id": "3",
+    "ability_id": "",
+    "is_hidden": "0",
+    "slot": "2"
+  },
+  {
+    "pokemon_id": "238",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "239",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "240",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "241",
+    "generation_id": "3",
+    "ability_id": "",
+    "is_hidden": "0",
+    "slot": "2"
+  },
+  {
+    "pokemon_id": "241",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "242",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "243",
+    "generation_id": "6",
+    "ability_id": "10",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "244",
+    "generation_id": "6",
+    "ability_id": "18",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "245",
+    "generation_id": "6",
+    "ability_id": "11",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "246",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "248",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "249",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "250",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "252",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "253",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "254",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "255",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "256",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "257",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "258",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "259",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "260",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "261",
+    "generation_id": "3",
+    "ability_id": "",
+    "is_hidden": "0",
+    "slot": "2"
+  },
+  {
+    "pokemon_id": "261",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "262",
+    "generation_id": "3",
+    "ability_id": "",
+    "is_hidden": "0",
+    "slot": "2"
+  },
+  {
+    "pokemon_id": "262",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "263",
+    "generation_id": "3",
+    "ability_id": "",
+    "is_hidden": "0",
+    "slot": "2"
+  },
+  {
+    "pokemon_id": "263",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "264",
+    "generation_id": "3",
+    "ability_id": "",
+    "is_hidden": "0",
+    "slot": "2"
+  },
+  {
+    "pokemon_id": "264",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "265",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "267",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "269",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "270",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "271",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "272",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "273",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "274",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "275",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "275",
+    "generation_id": "8",
+    "ability_id": "48",
+    "is_hidden": "0",
+    "slot": "2"
+  },
+  {
+    "pokemon_id": "276",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "277",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "278",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "278",
+    "generation_id": "6",
+    "ability_id": "",
+    "is_hidden": "0",
+    "slot": "2"
+  },
+  {
+    "pokemon_id": "279",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "279",
+    "generation_id": "6",
+    "ability_id": "",
+    "is_hidden": "0",
+    "slot": "2"
+  },
+  {
+    "pokemon_id": "280",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "281",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "282",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "283",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "284",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "285",
+    "generation_id": "3",
+    "ability_id": "",
+    "is_hidden": "0",
+    "slot": "2"
+  },
+  {
+    "pokemon_id": "285",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "286",
+    "generation_id": "3",
+    "ability_id": "",
+    "is_hidden": "0",
+    "slot": "2"
+  },
+  {
+    "pokemon_id": "286",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "290",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "291",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "293",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "294",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "295",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "296",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "297",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "298",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "299",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "300",
+    "generation_id": "3",
+    "ability_id": "",
+    "is_hidden": "0",
+    "slot": "2"
+  },
+  {
+    "pokemon_id": "300",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "301",
+    "generation_id": "3",
+    "ability_id": "",
+    "is_hidden": "0",
+    "slot": "2"
+  },
+  {
+    "pokemon_id": "301",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "302",
+    "generation_id": "3",
+    "ability_id": "",
+    "is_hidden": "0",
+    "slot": "2"
+  },
+  {
+    "pokemon_id": "302",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "303",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "304",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "305",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "306",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "307",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "308",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "309",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "310",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "311",
+    "generation_id": "5",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "312",
+    "generation_id": "5",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "313",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "314",
+    "generation_id": "3",
+    "ability_id": "",
+    "is_hidden": "0",
+    "slot": "2"
+  },
+  {
+    "pokemon_id": "314",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "315",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "316",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "317",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "318",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "319",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "320",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "321",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "322",
+    "generation_id": "3",
+    "ability_id": "",
+    "is_hidden": "0",
+    "slot": "2"
+  },
+  {
+    "pokemon_id": "322",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "323",
+    "generation_id": "3",
+    "ability_id": "",
+    "is_hidden": "0",
+    "slot": "2"
+  },
+  {
+    "pokemon_id": "323",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "324",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "324",
+    "generation_id": "6",
+    "ability_id": "",
+    "is_hidden": "0",
+    "slot": "2"
+  },
+  {
+    "pokemon_id": "325",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "326",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "327",
+    "generation_id": "3",
+    "ability_id": "",
+    "is_hidden": "0",
+    "slot": "2"
+  },
+  {
+    "pokemon_id": "327",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "328",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "331",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "332",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "333",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "334",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "335",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "336",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "339",
+    "generation_id": "3",
+    "ability_id": "",
+    "is_hidden": "0",
+    "slot": "2"
+  },
+  {
+    "pokemon_id": "339",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "340",
+    "generation_id": "3",
+    "ability_id": "",
+    "is_hidden": "0",
+    "slot": "2"
+  },
+  {
+    "pokemon_id": "340",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "341",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "342",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "345",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "346",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "347",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "348",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "349",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "349",
+    "generation_id": "5",
+    "ability_id": "",
+    "is_hidden": "0",
+    "slot": "2"
+  },
+  {
+    "pokemon_id": "350",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "350",
+    "generation_id": "5",
+    "ability_id": "",
+    "is_hidden": "0",
+    "slot": "2"
+  },
+  {
+    "pokemon_id": "352",
+    "generation_id": "5",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "353",
+    "generation_id": "3",
+    "ability_id": "",
+    "is_hidden": "0",
+    "slot": "2"
+  },
+  {
+    "pokemon_id": "353",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "354",
+    "generation_id": "3",
+    "ability_id": "",
+    "is_hidden": "0",
+    "slot": "2"
+  },
+  {
+    "pokemon_id": "354",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "355",
+    "generation_id": "5",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "356",
+    "generation_id": "5",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "357",
+    "generation_id": "3",
+    "ability_id": "",
+    "is_hidden": "0",
+    "slot": "2"
+  },
+  {
+    "pokemon_id": "357",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "359",
+    "generation_id": "3",
+    "ability_id": "",
+    "is_hidden": "0",
+    "slot": "2"
+  },
+  {
+    "pokemon_id": "359",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "360",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "361",
+    "generation_id": "3",
+    "ability_id": "",
+    "is_hidden": "0",
+    "slot": "2"
+  },
+  {
+    "pokemon_id": "361",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "362",
+    "generation_id": "3",
+    "ability_id": "",
+    "is_hidden": "0",
+    "slot": "2"
+  },
+  {
+    "pokemon_id": "362",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "363",
+    "generation_id": "3",
+    "ability_id": "",
+    "is_hidden": "0",
+    "slot": "2"
+  },
+  {
+    "pokemon_id": "363",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "364",
+    "generation_id": "3",
+    "ability_id": "",
+    "is_hidden": "0",
+    "slot": "2"
+  },
+  {
+    "pokemon_id": "364",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "365",
+    "generation_id": "3",
+    "ability_id": "",
+    "is_hidden": "0",
+    "slot": "2"
+  },
+  {
+    "pokemon_id": "365",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "366",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "367",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "368",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "369",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "370",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "371",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "372",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "373",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "374",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "375",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "376",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "387",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "388",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "389",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "390",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "391",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "392",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "393",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "393",
+    "generation_id": "8",
+    "ability_id": "128",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "394",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "394",
+    "generation_id": "8",
+    "ability_id": "128",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "395",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "395",
+    "generation_id": "8",
+    "ability_id": "128",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "396",
+    "generation_id": "5",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "397",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "398",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "399",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "400",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "401",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "402",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "403",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "404",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "405",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "406",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "407",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "408",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "409",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "410",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "411",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "412",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "413",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "414",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "415",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "416",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "417",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "418",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "419",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "422",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "423",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "424",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "425",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "426",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "427",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "428",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "430",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "431",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "432",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "434",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "435",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "436",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "437",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "438",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "439",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "440",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "441",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "442",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "443",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "444",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "445",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "446",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "447",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "448",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "449",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "450",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "451",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "452",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "453",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "454",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "456",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "457",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "458",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "459",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "460",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "461",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "462",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "463",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "464",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "465",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "466",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "467",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "468",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "469",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "470",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "471",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "472",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "473",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "474",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "475",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "475",
+    "generation_id": "8",
+    "ability_id": "",
+    "is_hidden": "0",
+    "slot": "2"
+  },
+  {
+    "pokemon_id": "476",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "477",
+    "generation_id": "5",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "478",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "483",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "484",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  },
+  {
+    "pokemon_id": "487",
+    "generation_id": "4",
+    "ability_id": "",
+    "is_hidden": "1",
+    "slot": "3"
+  }
+]

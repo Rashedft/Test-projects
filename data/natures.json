@@ -1,0 +1,102 @@
+{
+  "Hardy": {
+    "up": 1,
+    "down": 1
+  },
+  "Bold": {
+    "up": 2,
+    "down": 1
+  },
+  "Modest": {
+    "up": 3,
+    "down": 1
+  },
+  "Calm": {
+    "up": 4,
+    "down": 1
+  },
+  "Timid": {
+    "up": 5,
+    "down": 1
+  },
+  "Lonely": {
+    "up": 1,
+    "down": 2
+  },
+  "Docile": {
+    "up": 2,
+    "down": 2
+  },
+  "Mild": {
+    "up": 3,
+    "down": 2
+  },
+  "Gentle": {
+    "up": 4,
+    "down": 2
+  },
+  "Hasty": {
+    "up": 5,
+    "down": 2
+  },
+  "Adamant": {
+    "up": 1,
+    "down": 3
+  },
+  "Impish": {
+    "up": 2,
+    "down": 3
+  },
+  "Bashful": {
+    "up": 3,
+    "down": 3
+  },
+  "Careful": {
+    "up": 4,
+    "down": 3
+  },
+  "Rash": {
+    "up": 3,
+    "down": 4
+  },
+  "Jolly": {
+    "up": 5,
+    "down": 3
+  },
+  "Naughty": {
+    "up": 1,
+    "down": 4
+  },
+  "Lax": {
+    "up": 2,
+    "down": 4
+  },
+  "Quirky": {
+    "up": 4,
+    "down": 4
+  },
+  "Naive": {
+    "up": 5,
+    "down": 4
+  },
+  "Brave": {
+    "up": 1,
+    "down": 5
+  },
+  "Relaxed": {
+    "up": 2,
+    "down": 5
+  },
+  "Quiet": {
+    "up": 3,
+    "down": 5
+  },
+  "Sassy": {
+    "up": 4,
+    "down": 5
+  },
+  "Serious": {
+    "up": 5,
+    "down": 5
+  }
+}

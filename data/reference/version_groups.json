@@ -1,0 +1,194 @@
+[
+  {
+    "id": "1",
+    "identifier": "red-blue",
+    "generation_id": "1",
+    "order": "3"
+  },
+  {
+    "id": "2",
+    "identifier": "yellow",
+    "generation_id": "1",
+    "order": "4"
+  },
+  {
+    "id": "3",
+    "identifier": "gold-silver",
+    "generation_id": "2",
+    "order": "5"
+  },
+  {
+    "id": "4",
+    "identifier": "crystal",
+    "generation_id": "2",
+    "order": "6"
+  },
+  {
+    "id": "5",
+    "identifier": "ruby-sapphire",
+    "generation_id": "3",
+    "order": "7"
+  },
+  {
+    "id": "6",
+    "identifier": "emerald",
+    "generation_id": "3",
+    "order": "8"
+  },
+  {
+    "id": "7",
+    "identifier": "firered-leafgreen",
+    "generation_id": "3",
+    "order": "11"
+  },
+  {
+    "id": "8",
+    "identifier": "diamond-pearl",
+    "generation_id": "4",
+    "order": "12"
+  },
+  {
+    "id": "9",
+    "identifier": "platinum",
+    "generation_id": "4",
+    "order": "13"
+  },
+  {
+    "id": "10",
+    "identifier": "heartgold-soulsilver",
+    "generation_id": "4",
+    "order": "14"
+  },
+  {
+    "id": "11",
+    "identifier": "black-white",
+    "generation_id": "5",
+    "order": "15"
+  },
+  {
+    "id": "12",
+    "identifier": "colosseum",
+    "generation_id": "3",
+    "order": "9"
+  },
+  {
+    "id": "13",
+    "identifier": "xd",
+    "generation_id": "3",
+    "order": "10"
+  },
+  {
+    "id": "14",
+    "identifier": "black-2-white-2",
+    "generation_id": "5",
+    "order": "16"
+  },
+  {
+    "id": "15",
+    "identifier": "x-y",
+    "generation_id": "6",
+    "order": "17"
+  },
+  {
+    "id": "16",
+    "identifier": "omega-ruby-alpha-sapphire",
+    "generation_id": "6",
+    "order": "18"
+  },
+  {
+    "id": "17",
+    "identifier": "sun-moon",
+    "generation_id": "7",
+    "order": "19"
+  },
+  {
+    "id": "18",
+    "identifier": "ultra-sun-ultra-moon",
+    "generation_id": "7",
+    "order": "20"
+  },
+  {
+    "id": "19",
+    "identifier": "lets-go-pikachu-lets-go-eevee",
+    "generation_id": "7",
+    "order": "21"
+  },
+  {
+    "id": "20",
+    "identifier": "sword-shield",
+    "generation_id": "8",
+    "order": "22"
+  },
+  {
+    "id": "21",
+    "identifier": "the-isle-of-armor",
+    "generation_id": "8",
+    "order": "23"
+  },
+  {
+    "id": "22",
+    "identifier": "the-crown-tundra",
+    "generation_id": "8",
+    "order": "24"
+  },
+  {
+    "id": "23",
+    "identifier": "brilliant-diamond-shining-pearl",
+    "generation_id": "8",
+    "order": "25"
+  },
+  {
+    "id": "24",
+    "identifier": "legends-arceus",
+    "generation_id": "8",
+    "order": "26"
+  },
+  {
+    "id": "25",
+    "identifier": "scarlet-violet",
+    "generation_id": "9",
+    "order": "27"
+  },
+  {
+    "id": "26",
+    "identifier": "the-teal-mask",
+    "generation_id": "9",
+    "order": "28"
+  },
+  {
+    "id": "27",
+    "identifier": "the-indigo-disk",
+    "generation_id": "9",
+    "order": "29"
+  },
+  {
+    "id": "28",
+    "identifier": "red-green-japan",
+    "generation_id": "1",
+    "order": "1"
+  },
+  {
+    "id": "29",
+    "identifier": "blue-japan",
+    "generation_id": "1",
+    "order": "2"
+  },
+  {
+    "id": "30",
+    "identifier": "legends-za",
+    "generation_id": "9",
+    "order": "30"
+  },
+  {
+    "id": "31",
+    "identifier": "mega-dimension",
+    "generation_id": "9",
+    "order": "31"
+  },
+  {
+    "id": "32",
+    "identifier": "champions",
+    "generation_id": "9",
+    "order": "32"
+  }
+]
