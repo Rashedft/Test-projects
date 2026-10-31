@@ -1,10 +1,10 @@
-# Poke Journey — development build 0.1
+# Poke Journey — graphics preview 0.2
 
 A new unified Godot 4 source project. **This is an early playable opening, not the complete three-region game.** No previous Godot prototype source was available. No uploaded ROMs or emulator files were extracted or bundled.
 
 ## Downloads
 
-[Download Windows build](https://github.com/Rashedft/Test-projects/raw/refs/heads/main/downloads/PokeJourney-0.1-Windows.zip) · [Download Godot source](https://github.com/Rashedft/Test-projects/raw/refs/heads/main/downloads/PokeJourney-0.1-Source.zip)
+[Download Windows build](https://github.com/Rashedft/Test-projects/raw/refs/heads/main/downloads/PokeJourney-0.2-Windows.zip) · [Download Godot source](https://github.com/Rashedft/Test-projects/raw/refs/heads/main/downloads/PokeJourney-0.2-Source.zip)
 
 See [download instructions](downloads/README.md) if your browser opens a GitHub file page.
 
@@ -13,7 +13,8 @@ See [download instructions](downloads/README.md) if your browser opens a GitHub 
 Extract the Windows ZIP and run `PokeJourney.exe`. It has an embedded resource pack; no Godot installation is needed to run it. The build was exported on Linux and its bundled resources smoke-tested with the Linux engine. Native Windows launch and performance remain unverified.
 
 - WASD / arrows: move; E: interact with a nearby character.
-- P: party; Esc: menu/back; mouse: select menu actions.
+- P: party; Esc: menu/back; mouse: select menu actions; mouse wheel: exploration zoom.
+- Esc → **Model viewer · graphics preview**: inspect all ten current species without changing your party or save.
 - Visit Oak outside the northeastern lab, then Mom outside the western house.
 - Visit the Nurse southeast of the crossroads to heal and manage PC storage.
 - A supplies merchant stands southwest of the crossroads.
@@ -32,9 +33,17 @@ Linux cloud checks: `bash tools/check.sh`. Python 3 and Godot 4.6.3 are availabl
 
 Windows export: `python3 tools/install_templates.py` if the official templates are absent; then run `godot --headless --path . --export-release "Windows Desktop" builds/PokeJourney.exe`. The cloud XDG variables used by `tools/check.sh` must also be set for export. See [architecture](documentation/ARCHITECTURE.md), [progress](documentation/PROGRESS.md), [testing](documentation/TESTING.md), and [data sources](documentation/SOURCES.md).
 
+## Graphics preview 0.2
+
+The X/Y-inspired direction now includes closer third-person framing, tiled gable roofs, framed windows/shutters, chimneys, gardens, fences, lamps, cobbled paths, a shaded pond, instanced grass, a sky/fog backdrop and a decorated battle arena. Ten species have separate original mesh designs; human characters have jointed walk animation. Character outlines, idle/blink/tail motion, elementary battle-hit effects and two HP bars accompany the new light UI. A model viewer is available from the adventure menu.
+
+This remains original **development artwork**, not an exact reproduction of Nintendo's models or a final art-quality claim. Full character rigging/animation, texture/detail work, production asset polish, interiors, audio and target-GPU performance testing remain outstanding. Compatibility/MSAA is still the tested renderer; Forward+ is not yet validated here.
+
+[View actual rendered screenshots](downloads/README.md#screenshots). Baseline 0.1 downloads remain in the download directory and Git history. Save schema/location are unchanged; loading now finds safe nearby ground if new scenery occupies an old saved position.
+
 ## Scope of this build
 
-Implemented: a procedural 3D Pallet Town/Route 1 field, collision/movement/camera, repeat-safe starter gifts, six-member party, lead follower, nicknames, HP/stats/move summaries, PC deposit/withdraw, healing, Potions, shop purchases, Thunder Stone and basic level evolution, encounters/capture, a fixed-level trainer, an optional research quest, initial single-battle mechanics and versioned saves.
+Implemented: an expanded, detailed procedural 3D Pallet Town/Route 1 field, collision/movement/camera, repeat-safe starter gifts, six-member party, lead follower, nicknames, HP/stats/move summaries, PC deposit/withdraw, healing, Potions, shop purchases, Thunder Stone and basic level evolution, encounters/capture, a fixed-level trainer, an optional research quest, initial single-battle mechanics and versioned saves.
 
 The runtime contains **10 species and 18 moves**. A separate offline catalog contains **493 base species and 617 XY-era move records**, with historical stat/type/ability overrides and exact X/Y learnsets. Catalog coverage does not mean those species, moves or abilities are fully playable.
 

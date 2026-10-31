@@ -1,0 +1,20 @@
+Godot Engine v4.6.3.stable.official.7d41c59c4 - https://godotengine.org
+WARNING: Could not set V-Sync mode, as changing V-Sync mode is not supported by the graphics driver.
+     at: set_use_vsync (platform/linuxbsd/x11/gl_manager_x11.cpp:364)
+OpenGL API 4.5 (Core Profile) Mesa 25.0.7-2+deb13u1 - Compatibility - Using Device: Mesa - llvmpipe (LLVM 19.1.7, 256 bits)
+
+Rendered town · 1920×1080 · draw calls: 1497.0
+Rendered party · 1920×1080 · draw calls: 1509.0
+Rendered battle · 1920×1080 · draw calls: 525.0
+Rendered battle-effects · 1920×1080 · draw calls: 545.0
+Rendered model-25 · 1920×1080 · draw calls: 319.0
+Rendered model-1 · 1920×1080 · draw calls: 363.0
+Rendered model-4 · 1920×1080 · draw calls: 337.0
+Rendered model-7 · 1920×1080 · draw calls: 431.0
+Rendered model-26 · 1920×1080 · draw calls: 335.0
+Rendered model-2 · 1920×1080 · draw calls: 375.0
+Rendered model-5 · 1920×1080 · draw calls: 341.0
+Rendered model-8 · 1920×1080 · draw calls: 439.0
+Rendered model-16 · 1920×1080 · draw calls: 371.0
+Rendered model-19 · 1920×1080 · draw calls: 355.0
+Rendered roster · 1920×1080 · draw calls: 1579.0

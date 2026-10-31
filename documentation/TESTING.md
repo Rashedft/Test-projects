@@ -32,3 +32,15 @@ Run `bash tools/check.sh` from this checkout. It preserves command failures, che
 6. The dummy OpenGL driver does not support VSync configuration. Its warning does not indicate a game failure; target-machine rendering remains unverified.
 
 No unresolved parse/startup errors remain in the final automated check run. See CHECK_RESULTS.txt for that run's output. Full-game progression tests are unrun because those campaigns do not yet exist.
+
+## Build 0.2 validation
+
+The continuing suite adds 32 checks in `tests/visual_checks.gd`: each species produces a nonempty animated visual with bounds fitting the camera/ground; humanoid walk joints move; obsolete spawn positions relocate out of lab/pond collision; the model viewer leaves persistent game state unchanged and restores its camera; decorated arena objects survive action changes; the new battle HUD exposes both HP bars and its bag menu; returning to exploration still works. These checks verify integration, not subjective visual quality.
+
+The screenshot runner now renders real 1920×1080 frames for town, party, battle, hit effects, all ten model-viewer species and a common roster view. Its console output records resolution/draw calls for diagnosis; software OpenGL timings are not target-hardware performance measurements. Version 0.1 screenshots/results remain a baseline only. Build 0.2 export and packed-resource smoke results are recorded separately in EXPORT_RESULTS.txt.
+
+Limitations unchanged: 10 playable species / 18 moves, partial battle mechanics/learnsets, no full regions, audio or gamepad. Model outlines and joint-based motion are development presentation, not production skeletal animation. Windowed 1080p rendering is checked; all resolutions/DPI/driver combinations are not. Visual screenshot review is distinct from automated structural checks. Native Windows launch of the update remains unverified.
+
+During visual review, a reversed triangle winding made the extruded lightning tails render as outline fill; corrected to Godot winding and recaptured. Static buildings/trees were then batched by material and directional shadows reduced to two splits to reduce draw submission without changing collision. These are measured draw-call reductions, not a claim of 60 FPS on the target PC.
+
+Shadow review also exposed depth/bias striping after the two-split change. A controlled shadow-off comparison isolated the shadow path; a 4096, 32-bit directional atlas with adjusted bias removed the visible striping in the reviewed model-viewer frame. The same settings are explicit in the project/runtime. The model viewer uses one display pad to avoid coplanar overlapping arena pads.

@@ -10,6 +10,8 @@ var stages: Dictionary = {}
 var seeded: Dictionary = {}
 var rng = RandomNumberGenerator.new()
 var turns = 0
+# Presentation events describe resolved actions; no scene dependency enters the rules.
+var events: Array = []
 var flinched: Dictionary = {}
 
 # Gen VI chart, including the Fairy type and Steel's neutral Ghost/Dark matchups.
@@ -127,6 +129,7 @@ func act(user: Dictionary, target: Dictionary, index: int, log: Array) -> void:
 		var critical = rng.randf() < ([1.0/16,1.0/8,0.5,1.0][mini(3,crit_stage)])
 		var hit = damage(user,target,m,critical,rng.randi_range(85,100))
 		target.hp = maxi(0,int(target.hp)-hit)
+		events.append({"kind":"hit","actor_uid":user.uid,"target_uid":target.uid,"type":m.type,"damage":hit})
 		log.append("%d damage.%s%s" % [hit," Critical hit!" if critical else "", " Super effective!" if eff>1 else " Not very effective." if eff<1 else ""])
 		if m.effect == "recoil": user.hp = maxi(0,int(user.hp)-maxi(1,int(game.stats(user)[0]/4)))
 		if target.hp > 0 and m.category == "physical" and target.ability == "Static" and rng.randf()<0.3 and user.status == "" and not "electric" in game.species[str(int(user.species))].types:
@@ -143,6 +146,7 @@ func act(user: Dictionary, target: Dictionary, index: int, log: Array) -> void:
 			"defense_up": change_stage(user,"defense",1)
 			"seed":
 				if not "grass" in game.species[str(int(target.species))].types: seeded[target.uid] = user
+		events.append({"kind":"status","actor_uid":user.uid,"target_uid":user.uid if m.effect in ["focus","defense_up"] else target.uid,"type":m.type})
 		log.append("Battle conditions changed.")
 	elif m.effect == "flinch" and rng.randi_range(1,100)<=m.chance:
 		flinched[target.uid] = true
@@ -153,6 +157,7 @@ func act(user: Dictionary, target: Dictionary, index: int, log: Array) -> void:
 			log.append(str(target.nickname)+" received "+str(m.effect)+"!")
 
 func move_turn(index: int) -> Array:
+	events.clear()
 	var log: Array = []
 	flinched.clear()
 	if ended: return log
@@ -209,6 +214,7 @@ func end_turn(log: Array) -> void:
 	game.changed.emit()
 
 func switch_to(index: int) -> Array:
+	events.clear()
 	if ended or index == active or index < 0 or index >= game.state.party.size() or game.state.party[index].hp <= 0: return ["Choose a different healthy partner."]
 	stages.erase(game.state.party[active].uid)
 	seeded.erase(game.state.party[active].uid)
@@ -221,6 +227,7 @@ func switch_to(index: int) -> Array:
 	return log
 
 func use_potion() -> Array:
+	events.clear()
 	if ended: return []
 	if game.state.party[active].hp <= 0: return ["Switch first."]
 	var result: String = game.potion(active)
@@ -231,6 +238,7 @@ func use_potion() -> Array:
 	return log
 
 func capture() -> Array:
+	events.clear()
 	if ended: return []
 	if trainer: return ["You cannot catch another trainer's Pokémon."]
 	if game.state.party[active].hp <= 0: return ["Switch first."]
@@ -256,6 +264,7 @@ func capture() -> Array:
 	return log
 
 func flee() -> Array:
+	events.clear()
 	if ended: return []
 	if trainer: return ["You cannot run from a trainer battle."]
 	if game.state.party[active].hp <= 0: return ["Switch first."]

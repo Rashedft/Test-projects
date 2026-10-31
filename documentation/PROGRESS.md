@@ -41,3 +41,13 @@ Reusable `start_skill` instructions were saved to the environment draft. No cred
 ## 2026-10-30 — project name
 
 Renamed the game to **Poke Journey** in the project settings, HUD, root scene, export preset and player instructions. The original build-0.1 artifacts are preserved. The application uses the previous custom user-data directory so existing saves remain accessible. This is a branding/package update; the completion estimate is unchanged. Earlier `/workspace/...` chat links were local file references, not confirmed working download attachments. Download access remains to be confirmed in the user’s interface.
+
+## 2026-10-31 — graphics preview 0.2
+
+Overall remains approximately **1%** of the complete requested scope. This session improves presentation of existing content; no additional campaign or gym is complete.
+
+Implemented: original character/species mesh library, jointed human walk animation and creature idle/blink/tail/wing motion; closer camera and wheel zoom; modular detailed homes/lab/field station; roof/path/grass/flower instancing; water/wind/outline shaders; gardens, fences, pond and hills; coherent light UI, two battle HP bars and Fight/Pokémon/Bag/Run grid; decorated battle stage retained across actions; a model viewer integrated in the adventure menu; scene-independent resolved-hit/status events feeding elemental VFX; safe relocation for legacy save positions blocked by new scenery.
+
+Validation: the original 65 checks plus 32 visual-integration checks, 148 playable-data checks and catalog regressions pass. Actual rendered screenshots are captured at 1920×1080 using software OpenGL. Native Windows 0.2 launch, RTX 3080 Ti performance and final graphical fidelity remain unverified. No ripped/proprietary model or texture assets are used. The art is still in development and is not an exact X/Y asset recreation.
+
+Next: evaluate this concrete visual preview against the target reference, refine character proportions/materials and animation, and extract map/UI components before connecting Viridian/Forest/Pewter. Keep the existing opening, gifts, party, saves and battle loop working. Full battle rules and the three regional campaigns remain on the backlog above.

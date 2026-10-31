@@ -1,6 +1,7 @@
-Poke Journey — name/package update, 2026-10-30
+Poke Journey graphics preview 0.2 — 2026-10-31
 Godot 4.6.3 Windows x86-64 export: PASS
-Bundled resource startup using Linux Godot: PASS
-Save directory compatibility (Linux): PASS
-Native Windows launch and save directory: UNVERIFIED
-Executable SHA256: 5711e21fb4306717e97bba6830d92634902e56027ab19006fb30e4c7d97b8a9b
+Embedded PE/PCK structure: validated by package helper
+Packed-resource 120-frame startup using Linux Godot: PASS
+Source rendering: real 1920x1080 software OpenGL screenshots
+Native Windows 0.2 launch and target-GPU FPS: UNVERIFIED
+Executable SHA256: 8e9a1831aa0b5ebff465fb8007d40c73af28ac14d72d325e70c8a69689945cfe

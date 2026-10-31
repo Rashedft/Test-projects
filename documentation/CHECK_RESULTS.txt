@@ -2,20 +2,26 @@ Catalog normalized: 493 species, 617 move records; historical regression and all
 148 historical data checks passed
 Godot Engine v4.6.3.stable.official.7d41c59c4 - https://godotengine.org
 
-[   0% ] [90m[1mfirst_scan_filesystem[22m | Started Project initialization (5 steps)[39m[0m
-[   0% ] [90m[1mfirst_scan_filesystem[22m | Scanning file structure...[39m[0m
-[  16% ] [90m[1mfirst_scan_filesystem[22m | Loading global class names...[39m[0m
-[  33% ] [90m[1mfirst_scan_filesystem[22m | Verifying GDExtensions...[39m[0m
-[  50% ] [90m[1mfirst_scan_filesystem[22m | Creating autoload scripts...[39m[0m
-[  66% ] [90m[1mfirst_scan_filesystem[22m | Initializing plugins...[39m[0m
-[  83% ] [90m[1mfirst_scan_filesystem[22m | Starting file scan...[39m[0m
-[92m[ DONE ][39m [1mfirst_scan_filesystem[22m
-[0m
-[   0% ] [90m[1mloading_editor_layout[22m | Started Loading editor (5 steps)[39m[0m
-[   0% ] [90m[1mloading_editor_layout[22m | Loading editor layout...[39m[0m
-[  16% ] [90m[1mloading_editor_layout[22m | Loading docks...[39m[0m
-[92m[ DONE ][39m [1mloading_editor_layout[22m
-[0m
+[   0% ] first_scan_filesystem | Started Project initialization (5 steps)
+[   0% ] first_scan_filesystem | Scanning file structure...
+[  16% ] first_scan_filesystem | Loading global class names...
+[  33% ] first_scan_filesystem | Verifying GDExtensions...
+[  50% ] first_scan_filesystem | Creating autoload scripts...
+[  66% ] first_scan_filesystem | Initializing plugins...
+[  83% ] first_scan_filesystem | Starting file scan...
+[ DONE ] first_scan_filesystem
+
+[   0% ] update_scripts_classes | Started Registering global classes... (3 steps)
+[   0% ] update_scripts_classes | TownBuilder
+[  25% ] update_scripts_classes |
+[  50% ] update_scripts_classes |
+[ DONE ] update_scripts_classes
+
+[   0% ] loading_editor_layout | Started Loading editor (5 steps)
+[   0% ] loading_editor_layout | Loading editor layout...
+[  16% ] loading_editor_layout | Loading docks...
+[ DONE ] loading_editor_layout
+
 Godot Engine v4.6.3.stable.official.7d41c59c4 - https://godotengine.org
 
 PASS: New game has no free Pokémon
@@ -84,4 +90,39 @@ PASS: Keyboard input moves the physical player
 PASS: Menus pause movement
 PASS: Lab collision blocks walking through walls
 RESULT: 65 checks, 0 failures
+Godot Engine v4.6.3.stable.official.7d41c59c4 - https://godotengine.org
+
+PASS: Animated model root: Pikachu
+PASS: Model fits camera and ground bounds: Pikachu
+PASS: Animated model root: Raichu
+PASS: Model fits camera and ground bounds: Raichu
+PASS: Animated model root: Bulbasaur
+PASS: Model fits camera and ground bounds: Bulbasaur
+PASS: Animated model root: Ivysaur
+PASS: Model fits camera and ground bounds: Ivysaur
+PASS: Animated model root: Charmander
+PASS: Model fits camera and ground bounds: Charmander
+PASS: Animated model root: Charmeleon
+PASS: Model fits camera and ground bounds: Charmeleon
+PASS: Animated model root: Squirtle
+PASS: Model fits camera and ground bounds: Squirtle
+PASS: Animated model root: Wartortle
+PASS: Model fits camera and ground bounds: Wartortle
+PASS: Animated model root: Rattata
+PASS: Model fits camera and ground bounds: Rattata
+PASS: Animated model root: Pidgey
+PASS: Model fits camera and ground bounds: Pidgey
+PASS: Human rig has paired arms, legs and blinking eyes
+PASS: Walk animation changes joint pose
+PASS: Legacy spawn inside lab moves to safe ground
+PASS: Legacy spawn inside pond moves to safe ground
+PASS: Valid spawn position is preserved
+PASS: Model viewer opens inside unified game
+PASS: Model viewer does not alter party, inventory or save state
+PASS: Model viewer restores exploration camera
+PASS: Battle action retains decorated arena
+PASS: Battle HUD shows both HP bars
+PASS: Battle bag remains accessible after UI redesign
+PASS: Decorated battle returns to exploration
+VISUAL INTEGRATION RESULT: 32 checks, 0 failures
 Godot Engine v4.6.3.stable.official.7d41c59c4 - https://godotengine.org

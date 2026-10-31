@@ -29,3 +29,13 @@ Schema version 1; three named slots; temp file + flush + rename; prior save copi
 7. Replace procedural assets through a license-tracked pipeline, then Forward+ lighting, dynamic battle camera, sound/accessibility/gamepad and performance testing.
 
 No existing working source build was supplied; no legacy build was overwritten. The first tested source/binary archives are the baseline for future releases. Each task already has an isolated checkout; use the existing checkout without creating a worktree unless explicitly requested.
+
+## Presentation layer added in 0.2
+
+`presentation/character_art.gd` owns original reusable mesh shapes and cached materials. `animated_actor.gd` animates limb pivots, blinks, wings and tails. `battle_effects.gd` consumes plain resolved-hit/status events from BattleSession, using temporary self-cleaning effect nodes. These files do not change battle calculations. Battle actor meshes persist across turns and are replaced only when the active identity/species changes. The arena is never recreated per attack.
+
+`town_builder.gd` builds a repeatable layout, with local scenery RNG independent of the gameplay RNG. Roof tiles, grass, pavers and flowers use MultiMesh batches; material/low-detail primitive reuse bounds the resource cost. The model viewer shares exactly the same art factory as exploration and battle, and never grants species or modifies saves. Ground collision queries relocate loaded positions when new geometry would trap the player.
+
+Water, grass and outline shaders are original source in `shaders/`. The preview remains on Compatibility with 4× MSAA because that is the renderer available for actual software rendering here. Forward+ and the hardware FPS target still require a separate validation pass.
+
+Static building/tree primitives are baked into material-grouped meshes after construction; their collision bodies are reparented with world transforms preserved. Roof/grass/path MultiMeshes remain separate batches. The archive helper excludes the repository's downloads directory so successive source archives do not recursively include previous binary ZIPs.

@@ -30,3 +30,7 @@ Godot 4.6.3 official binary and Windows export templates:
 https://github.com/godotengine/godot/releases/tag/4.6.3-stable
 
 The template installer uses official HTTPS release assets, validates ZIP size/CRC and does not disable TLS verification. Only Windows x86-64 members are fetched via byte ranges. Godot's license is included in GODOT-LICENSE.txt. No third-party asset packs are bundled.
+
+## Graphics preview 0.2
+
+All building/terrain/foliage/character/creature geometry and visual shaders are authored as original project source. No downloaded model pack, texture pack, ROM asset, Nintendo game sound or proprietary animation is bundled. The procedural library is development art and does not imply a match to final X/Y graphics. The displayed species remain recognizable Pokémon characters; original mesh authorship does not imply ownership of Pokémon trademarks/character IP.
